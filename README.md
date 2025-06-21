@@ -44,21 +44,21 @@ Brackets are displayed in the following order:
 
 Key metrics shown along the column axis (all in USD accounting format):
 
-Sales Amount
+* Sales Amount
 
-Sales Quantity
+* Sales Quantity
 
-Cost Amount
+* Cost Amount
 
-GM Amount
+* GM Amount
 
-GM Percent
+* GM Percent
 
-Red if < 0%
+* Red if < 0%
 
-Yellow if < 10%
+* Yellow if < 10%
 
-Green if > 50%
+* Green if > 50%
 
 AUR (Average Unit Retail) = Sales Amount ÷ Sales Quantity
 
